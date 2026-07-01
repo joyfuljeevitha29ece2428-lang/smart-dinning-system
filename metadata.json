@@ -1,0 +1,5 @@
+{
+  "name": "Angel's Kitchen - Smart Restaurant System",
+  "description": "A professional AI-powered restaurant ordering system with real-time kitchen display, AI waiter, and dynamic UPI payments.",
+  "requestFramePermissions": ["microphone"]
+}
