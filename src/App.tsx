@@ -170,7 +170,7 @@ export default function App() {
   }, [view]);
 
   const handleKitchenLogin = () => {
-    if (kitchenPassword === 'Veeramani') {
+    if (kitchenPassword === 'SmartDinning') {
       setIsKitchenAuthenticated(true);
       setKitchenPassword('');
     } else {
